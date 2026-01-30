@@ -85,7 +85,7 @@ This repository is designed for educational purposes. Contributions should maint
 Educational use. Please provide attribution when using this material.
 
 ## Author
-Sahana - 2026
+Prayas Chavda - 2026
 
 ## Acknowledgments
 Built following best practices for educational ML repositories with focus on clarity, correctness, and learning value.
